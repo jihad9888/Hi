@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+
+    <!-- Meta Redirect (Backup) -->
+    <meta http-equiv="refresh" content="0; url=https://t.me/+FokglihrY6wwMTFl">
+
+    <script type="text/javascript">
+        // JavaScript Redirect
+        window.location.href = "https://t.me/+FokglihrY6wwMTFl";
+    </script>
+
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f7;
+            color: #333;
+        }
+        .box {
+            padding: 24px 32px;
+            border-radius: 14px;
+            background: #ffffff;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            text-align: center;
+        }
+        a {
+            color: #007aff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <p>Redirecting to Telegram…</p>
+        <p>If not redirected, <a href="https://t.me/+FokglihrY6wwMTFl">click here</a></p>
+    </div>
+</body>
+</html>
